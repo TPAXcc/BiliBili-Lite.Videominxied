@@ -18,7 +18,7 @@
 1. 克隆此仓库：
    ```bash
    git clone https://github.com/yourusername/biliuwp-lite.Mixer.git
-   cd biliuwp-lite.Mixercd biliuwp-lite.Mixer
+   cd biliuwp-lite.Mixercd
    ```
 2. 安装依赖项：
    ```bash
