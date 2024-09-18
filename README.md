@@ -20,18 +20,18 @@
    cd biliuwp-lite.Mixercd biliuwp-lite.Mixer
    ```
 2. 安装依赖项：
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## 技术栈
 
 - **Python**: 主要开发语言。
   - **Tkinter**: 用于创建图形用户界面。
-- **FFmpeg**: 用于视频和音频的编码和合并。
   - **requests**: 用于网络请求。
   - **concurrent.futures**: 提供多线程支持。
   - **tqdm**: 显示进度条。
+- **FFmpeg**: 用于视频和音频的编码和合并。
 
 ## 许可证
 
