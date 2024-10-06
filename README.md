@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-biliuwp--lite.Mixer-blue.svg)](https://github.com/yourusername/biliuwp-lite.Mixer)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##注：此项目代码由东拼西凑而成，不保证所有情况下的可用性，欢迎提交RP&issue
+## 注：此项目代码由东拼西凑而成，不保证所有情况下的可用性，欢迎提交RP&issue
 
 `biliuwp-lite.Mixer` 是一款轻量级的 GUI 应用程序，专为从 `biliuwp-lite` 下载的视频和音频文件进行合并而设计。该工具通过使用 FFmpeg 实现视频与音频的无缝合并，支持批量处理，使得视频后期制作更加高效便捷。
 
