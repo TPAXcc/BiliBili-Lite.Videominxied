@@ -21,7 +21,7 @@
 
    注：国服用户自行解决网络问题
    ```bash
-   git clone https://github.com/yourusername/biliuwp-lite.Mixer.git
+   git clone https://github.com/TPAXcc/biliuwp-lite.Mixer.git
    cd biliuwp-lite.Mixercd
    ```
 2. 安装依赖项：
