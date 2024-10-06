@@ -1,6 +1,6 @@
 # biliuwp-lite.Mixer
 
-[![GitHub](https://img.shields.io/badge/GitHub-biliuwp--lite.Mixer-blue.svg)](https://github.com/yourusername/biliuwp-lite.Mixer)
+[![GitHub](https://img.shields.io/badge/GitHub-biliuwp--lite.Mixer-blue.svg)](https://github.com/TPAXcc/biliuwp-lite.Mixer)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 注：此项目代码由东拼西凑而成，不保证所有环境下的可用性，欢迎提交 RP&issue
